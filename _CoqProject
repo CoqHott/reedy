@@ -1,0 +1,10 @@
+-Q coq-2ltt TLTT
+-Q Reedy Reedy
+-I coq-2ltt/src
+
+Reedy/Overture.v
+Reedy/Inverse.v
+Reedy/Iso.v
+Reedy/Matching.v
+Reedy/Fibration.v
+Reedy/Reedy.v

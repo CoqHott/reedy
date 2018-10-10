@@ -1,0 +1,3 @@
+[submodule "coq-2ltt"]
+	path = coq-2ltt
+	url = https://github.com/CoqHott/coq-2ltt.git
