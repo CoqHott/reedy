@@ -1,5 +1,6 @@
 # Reedy
 A formalisation of some results on the Reedy fibrant diagrams in two-level type theory.
+WIP port of the Lean implementaion: https://github.com/annenkov/two-level
 
 # Usage
 
